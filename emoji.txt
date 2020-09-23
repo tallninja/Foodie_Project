@@ -1,0 +1,14 @@
+chips U+1F35F
+chicken U+1F357
+burger U+1F354
+curry U+1F372
+ugali U+1F371
+veg U+1F343
+reciept U+1F4DC
+proceed U+1F61B
+
+100 U+1F4AF
+
+time U+23F3
+
+monkey U+1F435
